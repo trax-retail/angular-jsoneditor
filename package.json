@@ -1,5 +1,5 @@
 {
-  "author": "Paul Biester",
+  "author": "Trax Retail fork for Paul Biester",
   "bugs": {
     "url": "https://github.com/isonet/angular-jsoneditor/issues"
   },
@@ -46,5 +46,5 @@
     "type": "git",
     "url": "git+https://github.com/isonet/angular-jsoneditor.git"
   },
-  "version": "0.0.1"
+  "version": "0.0.3"
 }
