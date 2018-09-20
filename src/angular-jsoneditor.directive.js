@@ -27,7 +27,7 @@ export default () => {
                         $scope.$apply();
                         // If the user specified a onChange callback, trigger it
                         if (options.onChange && typeof options.onChange === 'function') {
-                            options.onChange();
+                            options.onChange(isValid);
                         }
                     }
                 };
